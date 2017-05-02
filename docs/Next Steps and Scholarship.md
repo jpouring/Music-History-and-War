@@ -8,21 +8,3 @@ Just as the “Big Data History of Music” project would not have been possible
 #Next Steps
 Approaching music history with big data allows the field of music history to be explore in new and exciting ways. In the past music databases were set up to be primarily searched by the name of the composer, yet with datasets such as those created in the ‘Big History of Music’ project, partial transcriptions of title-pages can be searched. This allows detection of distinctions such as which instrument the piece is scored for, ethnic connotations (i.e. ‘Turkish’), or even relation to historic events (i.e. ‘Waterloo’). These types of analyses expose wide-scale musical trends which in turn can illuminate greater historical changes, be they political, social, economic or otherwise.
 The power of big musical data is being looked into not only for its value to scholars and historians, but also for its application in the music industry. The music-streaming company Spotify collects four terabytes of data from its listeners daily, and currently have a total of twenty-eight petabytes of storage in four data centres across the world. Most of the data is used for user-centric purposes but is also used in forecasting information and data analytics. In 2013 Spotify used its data to try and predict the year’s Grammy award winner. In the end, four out of six of Spotify’s predictions were correct. Other researchers in the music industry hope to be able to use data analytics in the future to learn more about trends in music in the hopes of being able to predict the next big hit. These are just a few of many different ways in which data will be used in the future to shape both the history and future of music.
-
-#Bibliography
-Afanador-Llach, Maria José, Antonio Rojas Castro, Adam Crymble, Víctor Gayol, Fred Gibbs, Caleb McDaniel, Ian Milligan, Amanda Visconti, and Jeri Wieringa, eds. The Programming Historian. 2nd ed., 2017. http://programminghistorian.org/
-“A Big Data History of Music.” Royal Holloway University of London. Accessed April 03, 2017.
-https://www.royalholloway.ac.uk/music/research/abigdatahistoryofmusic/home.aspx
-Andrew Gustar; “Quantitative Perspectives.” Early Music 2015; 43 (2): 365-366. doi: 10.1093/em/cav033
-https://academic.oup.com/em/article-abstract/43/2/365/399147/Quantitative-perspectives?redirectedFrom=fulltext
-John F. Barber; “Sound and Digital Humanities: Reflecting on a DHSI Course.” Digital Humanities Quarterly, vol. 10 (2016). Accessed on April 1st, 2017.
-http://digitalhumanities.org:8081/dhq/vol/10/1/000239/000239.html
-“OpenRefine.” http://openrefine.org/
-This is the program which was used to clean the data.
-Raw Graphs. http://rawgraphs.io
-This website was useful for ideas regarding potential ideas for visualizations for the project.
-Sandra Tuppen, Stephen Rose, and Loukia Drosopoulou. “Library Catalogue Records as a Research Resource: Introducing ‘A Big Data History of Music,” Fontes Artis Musicae, vol. 63 (2016): accessed on April 1st, 2017.
-https://pure.royalholloway.ac.uk/portal/files/26278306/Tuppen_Rose_Drosopoulou_Library_Catalogue_Records_as_a_research_resource_.pdf
-Stephen Rose, Sandra Tuppen, Loukia Drosopoulou; “Writing a Big Data History of Music.” Early Music 2015; 43 (4): 649-660. doi: 10.1093/em/cav071. Accessed on April 3rd, 2017.
-https://academic.oup.com/em/article/43/4/649/338731/Writing-a-Big-Data-history-of-music
-Tableau Data Visualization. https://www.tableau.com/solutions/topic/data-visualization
