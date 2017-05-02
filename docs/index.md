@@ -1,5 +1,5 @@
 # Project Starter Template
 
-![Caesar in the Code](imgs/included/caesarian_code.png)
+![Music in the code](C:\Users\Pablo\Documents\GitHub\Big-Data-and-Music-History\docs\H73551000001000-00-500x500 (1).jpg)
 
-Welcome to the project started template. Edit me to make your first changes.
+Not sure exactly what this does
